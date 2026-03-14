@@ -95,12 +95,12 @@ Take the following steps to install the 3x3 app on your mobile device:
 ### 3.2 Main Interface Overview  
 
 When you first open the app, all tab pages appear at the top of the main screen.  
-
-<img src="images/main%20interface1.png" style="width:70%; display:block; margin:0 auto 20px;">
+ 
+<img src="images/main%20interface1.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
   
 Each tab page displays related content and usage hints.
 
-<img src="images/main%20interface2.png" style="width:70%; display:block; margin:0 auto 20px;">
+<img src="images/main%20interface2.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
 
 ## 4. Using the App
 
@@ -120,29 +120,28 @@ You can:
 
 Take the following steps to customize the main page:  
 
-1. Tap the blank area near the green text on the bottom of the page.   
+1. Tap the blank area near the green text on the bottom of the page.
 
 2. Tap the 设置 icon to open the setting page.
 
-**Figure 1. the green text on the bottom**  
+   **Figure 1. the green text on the bottom**  
 
-<img src="images/green%20text.png" style="width:70%; display:block; margin:0 auto 20px;">
+    <img src="images/green%20text.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
 
-1. Tap **标签页** on the setting page.  
+3. Tap **标签页** on the setting page.
 
-**Figure 2. the setting page** 
+   **Figure 2. the setting page**  
 
-<img src="images/setting.png" style="width:70%; display:block; margin:0 auto 20px;">
+   <img src="images/setting.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
+   
+4. Tap the **eye icon** next to a tab to hide it.  
 
-1. Tap the **eye icon** next to a tab to hide it.  
+   **Figure 3. Hidden tabs are folded** 
 
-**Figure 3. Hidden tabs are folded** 
-
-<img src="images/hide%20tab.png" style="width:70%; display:block; margin:0 auto 20px;">
-
-1. Long-press the tab row to change the order.  
-
-2. Tap a tab page to rename it.
+  <img src="images/hide%20tab.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
+  
+5. Long-press the tab row to change the order.
+6. Tap a tab page to rename it.
 
 ### 4.2 Create Tags
 
@@ -188,24 +187,24 @@ Take the following steps to create and link plans:
 
 1. Choose the corresponding tab page:
 
-- "今天" page: today to-do list
-- "我的一周" page: a weekly plan
-- "2026" page: a yearly plan
-- "Life" page: life plans
+  - "今天" page: today to-do list
+  - "我的一周" page: a weekly plan
+  - "2026" page: a yearly plan
+  - "Life" page: life plans
 
 2. Tap the **"+"** button to create.
 
 3. Use the **"@"** symbol to link tasks to plans.
 
-- Tap the **"@"** symbol below the 待办创建 page.
-- Tap the title of the related plan.
-- After selection, the linked plan appears in the lower-left corner of the page.  
+  - Tap the **"@"** symbol below the 待办创建 page.
+  - Tap the title of the related plan.
+  - After selection, the linked plan appears in the lower-left corner of the page.  
 
-<img src="images/linktask.png" style="width:70%; display:block; margin:0 auto 20px;">
+  <img src="images/linktask.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
 
-1. Tap the **"#"** symbol to assign tags to the task.  
+4. Tap the **"#"** symbol to assign tags to the task.  
 
-<img src="images/linktask2.png" style="width:70%; display:block; margin:0 auto 20px;">
+  <img src="images/linktask2.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
 
 ### 4.4 Record Time
 
@@ -217,41 +216,41 @@ Take the following steps to record time:
 
 You can record activities in two ways:
 
-- **Record in real time**
+  - **Record in real time**:
 
   Tap **专注** on the timeline page to start the timer.
 
-- **Record after completion**
+  - **Record after completion**:
 
-  Long-press **专注** to add a completed activity.
-
+  Long-press **专注** to add a completed activity.  
+  
 2. Link Tags and Plans  
 
-- Tap the **"#"** symbol to select a tag.
+  - Tap the **"#"** symbol to select a tag.
 
-- Tap the **"@"** symbol to associate a plan.
+  - Tap the **"@"** symbol to associate a plan.
 
 3. View Time Spent on a Plan
 
 If you link a timeline to a monthly or yearly plan, you can view total time spent on that plan:
 
-- Tap the 2026 tab page
+  - Tap the 2026 tab page
 
-- Tap the timeline icon next to the plan  
+  - Tap the timeline icon next to the plan  
 
-**Figure 4. The timeline icon** 
+  **Figure 4. The timeline icon** 
   
-<img src="images/timeline.png" style="width:70%; display:block; margin:0 auto 20px;"> 
+  <img src="images/timeline.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
+  
+  **Figure 5. Time recorded for a plan** 
 
-**Figure 5. Time recorded for a plan** 
-
-<img src="images/timeline2.png" style="width:70%; display:block; margin:0 auto 20px;"> 
-
-1. View Time Analysis
+  <img src="images/timeline2.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">   
+  
+4. View Time Analysis
 
 The app automatically generates a **time analysis pie chart** on 今天 page. The chart summarizes recorded timeline entries by tags.
 
-<img src="images/timechart.png" style="width:70%; display:block; margin:0 auto 20px;">  
+  <img src="images/timechart.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
 
 ### 4.5 Scene Setup
 
@@ -259,13 +258,13 @@ The Scene Setup feature simplifies time tracking for repeated activities.
 
 For example, you can create scenes such as:
 
-- Reading
+  - Reading
 
-- Exercise
+  - Exercise
 
-- Studying
+  - Studying
 
-- Meetings
+  - Meetings
 
 Each scene includes predefined tags and linked plans.
 
@@ -297,8 +296,8 @@ The 收件箱 tab page stores some undetermined or pending matters.
 
 4. If you need to delete an item, tap the gesture icon to the left of the item title.
 
-<img src="images/store.png" style="width:70%; display:block; margin:0 auto 20px;">  
-
+  <img src="images/store.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
+  
 5. Tap 取出 to delete it.
 
 ### 4.7 Other Pages  
@@ -318,10 +317,10 @@ The YMWD page displays plans at multiple time levels, including:
 
 The Home page presents an overview of all plans and to-do items concisely.
 
-<img src="images/homepage.png" style="width:70%; display:block; margin:0 auto 20px;">
+   <img src="images/homepage.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
 
-   **Figure 6. Home page overview**
-
+   **Figure 6. Home page overview**  
+   
 3. **收藏 Page**
 
    The 收藏 page stores important or priority tasks for quick access.
@@ -343,13 +342,13 @@ The following sections introduce some Pro features.
 
 The Log feature allows users to record daily reflections and notes, and attach images.
 
-<img src="images/log.png" style="width:70%; display:block; margin:0 auto 20px;">
+<img src="images/log.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
 
 ### Progress Bar Feature (Pro Exclusive): 
 
 The Progress Bar feature helps track task completion and update the completion percentage.
 
-<img src="images/progress.png" style="width:70%; display:block; margin:0 auto 20px;">  
+<img src="images/progress.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
 
 ### Custom Tabs (Pro Exclusive):   
 
@@ -363,13 +362,13 @@ Examples include:
 
 - Project tracking 
 
-<img src="images/moretab.png" style="width:70%; display:block; margin:0 auto 20px;">   
+<img src="images/moretab.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">   
 
 ### Sub-tags (Pro Exclusive):   
 
 The Sub-tag feature allows users to create nested tags under primary tags. This structure helps refine task classification.  
 
-<img src="images/subtag.png" style="width:70%; display:block; margin:0 auto 20px;"> 
+<img src="images/subtag.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;"> 
 
 ## 6. Tips
 
