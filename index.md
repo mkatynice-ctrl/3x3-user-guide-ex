@@ -138,8 +138,8 @@ Take the following steps to customize the main page:
 
    **Figure 3. Hidden tabs are folded** 
 
-  <img src="images/hide%20tab.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
-  
+   <img src="images/hide%20tab.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
+
 5. Long-press the tab row to change the order.
 
 6. Tap a tab page to rename it.
