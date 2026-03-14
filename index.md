@@ -188,20 +188,20 @@ Take the following steps to create and link plans:
 
 1. Choose the corresponding tab page:
 
-  - "今天" page: today to-do list
-  - "我的一周" page: a weekly plan
-  - "2026" page: a yearly plan
-  - "Life" page: life plans
+    - "今天" page: today to-do list
+    - "我的一周" page: a weekly plan
+    - "2026" page: a yearly plan
+    - "Life" page: life plans
 
 2. Tap the **"+"** button to create.
 
 3. Use the **"@"** symbol to link tasks to plans.
 
-  - Tap the **"@"** symbol below the 待办创建 page.
-  - Tap the title of the related plan.
-  - After selection, the linked plan appears in the lower-left corner of the page.  
+    - Tap the **"@"** symbol below the 待办创建 page.
+    - Tap the title of the related plan.
+    - After selection, the linked plan appears in the lower-left corner of the page.  
 
-  <img src="images/linktask.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
+    <img src="images/linktask.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
   
 4. Tap the **"#"** symbol to assign tags to the task.  
 
@@ -217,13 +217,9 @@ Take the following steps to record time:
 
     You can record activities in two ways:
 
-    - **Record in real time**:
+    - **Record in real time**: Tap **专注** on the timeline page to start the timer.
 
-    Tap **专注** on the timeline page to start the timer.
-
-    - **Record after completion**:
-
-    Long-press **专注** to add a completed activity.
+    - **Record after completion**: Long-press **专注** to add a completed activity.
 
 2. Link Tags and Plans  
 
@@ -235,7 +231,7 @@ Take the following steps to record time:
 
    If you link a timeline to a monthly or yearly plan, you can view total time spent on that plan:
 
-   - Tap the 2026 tab page
+   - Tap the **2026** tab page
 
    - Tap the timeline icon next to the plan  
 
