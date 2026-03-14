@@ -138,9 +138,10 @@ Take the following steps to customize the main page:
 
    **Figure 3. Hidden tabs are folded** 
 
-  <img src="images/hide%20tab.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
+  <img src="images/hide%20tab.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
   
 5. Long-press the tab row to change the order.
+
 6. Tap a tab page to rename it.
 
 ### 4.2 Create Tags
@@ -200,8 +201,8 @@ Take the following steps to create and link plans:
   - Tap the title of the related plan.
   - After selection, the linked plan appears in the lower-left corner of the page.  
 
-  <img src="images/linktask.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
-
+  <img src="images/linktask.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
+  
 4. Tap the **"#"** symbol to assign tags to the task.  
 
   <img src="images/linktask2.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
@@ -214,43 +215,43 @@ Take the following steps to record time:
 
 1. Start Recording Time:  
 
-You can record activities in two ways:
+    You can record activities in two ways:
 
-  - **Record in real time**:
+    - **Record in real time**:
 
-  Tap **专注** on the timeline page to start the timer.
+    Tap **专注** on the timeline page to start the timer.
 
-  - **Record after completion**:
+    - **Record after completion**:
 
-  Long-press **专注** to add a completed activity.  
-  
+    Long-press **专注** to add a completed activity.
+
 2. Link Tags and Plans  
 
-  - Tap the **"#"** symbol to select a tag.
+   - Tap the **"#"** symbol to select a tag.
 
-  - Tap the **"@"** symbol to associate a plan.
+   - Tap the **"@"** symbol to associate a plan.
 
 3. View Time Spent on a Plan
 
-If you link a timeline to a monthly or yearly plan, you can view total time spent on that plan:
+   If you link a timeline to a monthly or yearly plan, you can view total time spent on that plan:
 
-  - Tap the 2026 tab page
+   - Tap the 2026 tab page
 
-  - Tap the timeline icon next to the plan  
+   - Tap the timeline icon next to the plan  
 
-  **Figure 4. The timeline icon** 
+   **Figure 4. The timeline icon** 
   
-  <img src="images/timeline.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
+   <img src="images/timeline.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
   
-  **Figure 5. Time recorded for a plan** 
+   **Figure 5. Time recorded for a plan** 
 
-  <img src="images/timeline2.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">   
+   <img src="images/timeline2.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">   
   
 4. View Time Analysis
 
-The app automatically generates a **time analysis pie chart** on 今天 page. The chart summarizes recorded timeline entries by tags.
+   The app automatically generates a **time analysis pie chart** on 今天 page. The chart summarizes recorded timeline entries by tags.
 
-  <img src="images/timechart.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
+   <img src="images/timechart.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
 
 ### 4.5 Scene Setup
 
@@ -296,17 +297,17 @@ The 收件箱 tab page stores some undetermined or pending matters.
 
 4. If you need to delete an item, tap the gesture icon to the left of the item title.
 
-  <img src="images/store.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
-  
+   <img src="images/store.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
+
 5. Tap 取出 to delete it.
 
 ### 4.7 Other Pages  
 
-The other three default tabs display tasks and plans generated in other tabs. Users do not edit content directly on these pages.
+The other three default tabs display tasks and plans generated in other tabs. Users do not edit content directly on these pages.  
 
 1. **YMWD page**
 
-The YMWD page displays plans at multiple time levels, including:
+    The YMWD page displays plans at multiple time levels, including:
 
    - Today
    - This week
@@ -315,11 +316,11 @@ The YMWD page displays plans at multiple time levels, including:
 
 2. **Home page**
 
-The Home page presents an overview of all plans and to-do items concisely.
-
-   <img src="images/homepage.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
+    The Home page presents an overview of all plans and to-do items concisely.  
 
    **Figure 6. Home page overview**  
+
+   <img src="images/homepage.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
    
 3. **收藏 Page**
 
