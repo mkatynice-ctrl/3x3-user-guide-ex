@@ -24,7 +24,7 @@ The user guide includes the following sections:
 
 You can read the full documentation here:
 
-📄 **[Open the User Guide](./%23%203x3%20Time%20Management%20App%20User%20Guide.md)**
+📄 **[Open the User Guide](./index.md)**
 
 ## Screenshots
 
