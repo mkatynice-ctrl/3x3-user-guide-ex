@@ -40,7 +40,7 @@ This document is intended for users who want to manage their plans and life usin
 
 ### 1.3 Scope
 
-This guide covers the core functions available in both the Android and iOS versions of the app. It does not include the beta features exclusive to the Android client.  
+This guide covers the core functions available on both Android and iOS. Features that are currently implemented only on Android are not included.  
 
 It also introduces several Pro features. This guide does not provide a complete reference for all Pro functions.
 
@@ -48,7 +48,7 @@ It also introduces several Pro features. This guide does not provide a complete 
 
 The 3x3 Time Management App helps users organize tasks, track time, and connect long-term goals with daily activities.
 
-The app provides the following capabilities:
+The app provides the following core functions:
 
 - Record daily activities using a timeline.
 
@@ -106,19 +106,19 @@ Each tab page displays related content and usage hints.
 
 This section explains main tasks users can perform in the app.  
 
-### 4.1 Customize the Main Page
+### 4.1 Customize Tab Pages
 
-When you open the app for the first time, all tab pages appear at the top of the interface by default. You can customize these tabs to better match your workflow.  
+When you open the app for the first time, all tab pages appear at the top of the interface by default. You can customize these tab pages to better match your workflow.  
 
 You can:
 
-- Hide unused tabs
+- Hide unused tab pages
 
 - Rename tab pages
 
-- Change the tab order
+- Change the order
 
-Take the following steps to customize the main page:  
+Take the following steps to customize tab pages:  
 
 1. Tap the blank area near the green text on the bottom of the page.
 
@@ -132,15 +132,15 @@ Take the following steps to customize the main page:
 
    **Figure 2. the setting page**  
 
-   <img src="images/setting.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
+   <img src="images/settingnew.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
    
-4. Tap the **eye icon** next to a tab to hide it.  
+4. Tap the **eye icon** next to a tab page to hide it.  
 
    **Figure 3. Hidden tabs are folded** 
 
    <img src="images/hide%20tab.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
 
-5. Long-press the tab row to change the order.
+5. Long-press the tab page row to change the order.
 
 6. Tap a tab page to rename it.
 
@@ -215,18 +215,20 @@ Take the following steps to record time:
 
 1. Start Recording Time:  
 
-    You can record activities in two ways:
+    Tap 时间线 tab page. You can record activities in two ways:
 
     - **Record in real time**: Tap **专注** on the timeline page to start the timer.
 
     - **Record after completion**: Long-press **专注** to add a completed activity.
 
-2. Link Tags and Plans  
+2. Link Tags and Plans
+
+    Both two recording ways can link the timeline to tags and plans on the record page.
 
    - Tap the **"#"** symbol to select a tag.
 
    - Tap the **"@"** symbol to associate a plan.
-
+   
 3. View Time Spent on a Plan
 
    If you link a timeline to a monthly or yearly plan, you can view total time spent on that plan:
@@ -238,12 +240,14 @@ Take the following steps to record time:
    **Figure 4. The timeline icon** 
   
    <img src="images/timeline.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">  
-  
+
+   This page displays the total time spent on the plan and the timeline of the recorded activities.
+
    **Figure 5. Time recorded for a plan** 
 
-   <img src="images/timeline2.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">   
-  
-4. View Time Analysis
+   <img src="images/timeline2.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">
+   
+5. View Time Analysis
 
    The app automatically generates a **time analysis pie chart** on 今天 page. The chart summarizes recorded timeline entries by tags.
 
@@ -359,7 +363,7 @@ Examples include:
 
 - Project tracking 
 
-<img src="images/moretab.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">   
+<img src="images/moretabnew.png" style="width:70%; max-width:600px; display:block; margin:0 auto 20px;">   
 
 ### Sub-tags (Pro Exclusive):   
 
