@@ -13,7 +13,7 @@
       - [Install on Android](#install-on-android)
     - [3.2 Main Interface Overview](#32-main-interface-overview)
   - [4. Using the App](#4-using-the-app)
-    - [4.1 Customize the Main Page](#41-customize-the-main-page)
+    - [4.1 Customize Tab Pages](#41-customize-tab-pages)
     - [4.2 Create Tags](#42-create-tags)
     - [4.3 Formulate and Link Plans](#43-formulate-and-link-plans)
     - [4.4 Record Time](#44-record-time)
@@ -27,6 +27,9 @@
     - [Sub-tags (Pro Exclusive):](#sub-tags-pro-exclusive)
   - [6. Tips](#6-tips)
 
+
+  **Document Note**: This document is an unofficial user guide for the 3x3 Time Management App.  It is a technical writing sample based on personal usage experience. The application interface is currently available only in Chinese. Therefore, all screenshots in this guide show the original Chinese interface. Interface names in the instructions are kept in Chinese to match the app UI.
+  
 
 ## 1. Introduction
 
@@ -190,8 +193,8 @@ Take the following steps to create and link plans:
 
     - "今天" page: today to-do list
     - "我的一周" page: a weekly plan
-    - "2026" page: a yearly plan
-    - "Life" page: life plans
+    - "2026" page: a yearly plan, monthly plan from from January to December
+    - "Life" page: life goals
 
 2. Tap the **"+"** button to create.
 
